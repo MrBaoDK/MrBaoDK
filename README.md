@@ -1,16 +1,51 @@
+![Profile Views](https://komarev.com/ghpvc/?username=MrBaoDK&color=blue)
+
 ## Hi there 👋
 
+I am a ✨ _Data Analytics Engineer_ ✨ at VN.
+
+Welcome to my GitHub profile 🤪:
+
+- 🔭 I’m currently working on some freelancer projects @ [LamDataDao](https://github.com/LamDataDao)
+- 🌱 I’m currently learning data engineering, machine learning engineering
+- 👯 I’m looking to collaborate on data/ ML projects
+- 🤔 I’m looking for help with power BI, excel, SQL, power query, batch/stream data processing
+- 💬 Ask me about data analytics engineering
+- 📫 How to reach me: MrBaoDK@hotmail.com, [bio](https://bit.ly/m/baodk)
+- 😄 Pronouns: he/him
+
+  
+## 🛠  Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka) ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark) &nbsp; 
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap) 
+ &nbsp; 
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) &nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![Azure](https://img.shields.io/badge/-Azure-05122A.svg?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgTWljcm9zb2Z0OiBodHRwczovL2dpdGh1Yi5jb20vbWljcm9zb2Z0L3ZzY29kZS1jb2RpY29ucyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMDA3OGQ0Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE1LjM3MDIgMTMuNjc5OUwxMS4zNzAyIDEuNjc5ODlDMTEuMzAwNiAxLjQ3MjkxIDExLjE2NTIgMS4yOTQzOCAxMC45ODQ2IDEuMTcxNTlDMTAuODA0IDEuMDQ4OCAxMC41ODgyIDAuOTg4NTEzIDEwLjM3MDIgMC45OTk4OTZINS42MzAxN0M1LjQyMDUyIDAuOTk5MzU0IDUuMjE1OTggMS4wNjQ3IDUuMDQ1NTEgMS4xODY3MkM0Ljg3NTA0IDEuMzA4NzUgNC43NDcyNCAxLjQ4MTI3IDQuNjgwMTUgMS42Nzk4OUwwLjYzMDE2NSAxMy42Nzk5QzAuNTc3NjQ2IDEzLjgzNDYgMC41NjM4MiAxMy45OTk4IDAuNTg5OTQzIDE0LjE2MTFDMC42MTYwNjYgMTQuMzIyNSAwLjY4MTMzNSAxNC40NzQ5IDAuNzgwMDA3IDE0LjYwNTJDMC44Nzg2NzggMTQuNzM1NCAxLjAwNzc4IDE0LjgzOTUgMS4xNTU5OCAxNC45MDgzQzEuMzA0MTkgMTQuOTc3MSAxLjQ2Njk5IDE1LjAwODYgMS42MzAxNyAxNC45OTk5SDQuNTYwMTZDNC43NjgwOSAxNC45OTg0IDQuOTcwMzUgMTQuOTMyIDUuMTM4ODMgMTQuODEwMUM1LjMwNzMxIDE0LjY4ODMgNS40MzM2MyAxNC41MTY5IDUuNTAwMTYgMTQuMzE5OUw2LjExMDE1IDEyLjUzOTlMOS4xMTAxNSAxNC44MDk5QzkuMjg0NDggMTQuOTM2MiA5LjQ5NDk1IDE1LjAwMjggOS43MTAxOCAxNC45OTk5SDE0LjM5MDJDMTQuNTUxNyAxNS4wMDUyIDE0LjcxMjEgMTQuOTcxMiAxNC44NTc2IDE0LjkwMUMxNS4wMDMyIDE0LjgzMDcgMTUuMTI5NSAxNC43MjYzIDE1LjIyNTkgMTQuNTk2NUMxNS4zMjIyIDE0LjQ2NjggMTUuMzg1NiAxNC4zMTU2IDE1LjQxMDcgMTQuMTU2QzE1LjQzNTkgMTMuOTk2MyAxNS40MjIgMTMuODMzIDE1LjM3MDIgMTMuNjc5OVpNOS43NTAxNiAxNC4zMzk5QzkuNjc3NDggMTQuMzM5OSA5LjYwNjkzIDE0LjMxNTMgOS41NTAxNSAxNC4yNjk5TDMuOTAwMTggMTAuMDc5OUwzLjgxMDE2IDEwLjAwOTlINi44MTAxNkw2Ljg5MDE3IDkuNzk5ODhMNy44OTAxNyA3LjI2OTg4TDEwLjEzMDIgMTMuODk5OUMxMC4xNDgyIDEzLjk1NTUgMTAuMTUxNSAxNC4wMTQ4IDEwLjEzOTkgMTQuMDcyQzEwLjEyODMgMTQuMTI5MyAxMC4xMDIyIDE0LjE4MjYgMTAuMDY0IDE0LjIyNjlDMTAuMDI1OCAxNC4yNzExIDkuOTc2ODkgMTQuMzA0NyA5LjkyMTkxIDE0LjMyNDVDOS44NjY5NCAxNC4zNDQzIDkuODA3NzggMTQuMzQ5NiA5Ljc1MDE2IDE0LjMzOTlWMTQuMzM5OVpNMTQuNDIwMSAxNC4zMzk5SDEwLjcwMDJDMTAuNzc0OSAxNC4xMjYyIDEwLjc3NDkgMTMuODkzNSAxMC43MDAyIDEzLjY3OTlMNi42NTAxOCAxLjY3OTg5SDEwLjM3MDJDMTAuNDQwOCAxLjY4MDI0IDEwLjUwOTUgMS43MDI1OCAxMC41NjY5IDEuNzQzNzlDMTAuNjI0MiAxLjc4NTAxIDEwLjY2NzMgMS44NDMwOCAxMC42OTAyIDEuOTA5OUwxNC43NDAyIDEzLjkwOTlDMTQuNzUzOCAxMy45NTk3IDE0Ljc1NiAxNC4wMTIgMTQuNzQ2NCAxNC4wNjI4QzE0LjczNjkgMTQuMTEzNiAxNC43MTU5IDE0LjE2MTUgMTQuNjg1MSAxNC4yMDNDMTQuNjU0MiAxNC4yNDQ0IDE0LjYxNDQgMTQuMjc4MyAxNC41Njg1IDE0LjMwMkMxNC41MjI2IDE0LjMyNTcgMTQuNDcxOCAxNC4zMzg3IDE0LjQyMDEgMTQuMzM5OVYxNC4zMzk5WiIvPjwvc3ZnPg==) ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices) &nbsp;
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+ZmlsZV90eXBlX3ZzY29kZTwvdGl0bGU+PHBhdGggZD0iTTI5LjAxLDUuMDMsMjMuMjQ0LDIuMjU0YTEuNzQyLDEuNzQyLDAsMCwwLTEuOTg5LjMzOEwyLjM4LDE5LjhBMS4xNjYsMS4xNjYsMCwwLDAsMi4zLDIxLjQ0N2MuMDI1LjAyNy4wNS4wNTMuMDc3LjA3N2wxLjU0MSwxLjRhMS4xNjUsMS4xNjUsMCwwLDAsMS40ODkuMDY2TDI4LjE0Miw1Ljc1QTEuMTU4LDEuMTU4LDAsMCwxLDMwLDYuNjcyVjYuNjA1QTEuNzQ4LDEuNzQ4LDAsMCwwLDI5LjAxLDUuMDNaIiBzdHlsZT0iZmlsbDojMDA2NWE5Ii8+PHBhdGggZD0iTTI5LjAxLDI2Ljk3bC01Ljc2NiwyLjc3N2ExLjc0NSwxLjc0NSwwLDAsMS0xLjk4OS0uMzM4TDIuMzgsMTIuMkExLjE2NiwxLjE2NiwwLDAsMSwyLjMsMTAuNTUzYy4wMjUtLjAyNy4wNS0uMDUzLjA3Ny0uMDc3bDEuNTQxLTEuNEExLjE2NSwxLjE2NSwwLDAsMSw1LjQxLDkuMDFMMjguMTQyLDI2LjI1QTEuMTU4LDEuMTU4LDAsMCwwLDMwLDI1LjMyOFYyNS40QTEuNzQ5LDEuNzQ5LDAsMCwxLDI5LjAxLDI2Ljk3WiIgc3R5bGU9ImZpbGw6IzAwN2FjYyIvPjxwYXRoIGQ9Ik0yMy4yNDQsMjkuNzQ3YTEuNzQ1LDEuNzQ1LDAsMCwxLTEuOTg5LS4zMzhBMS4wMjUsMS4wMjUsMCwwLDAsMjMsMjguNjg0VjMuMzE2YTEuMDI0LDEuMDI0LDAsMCwwLTEuNzQ5LS43MjQsMS43NDQsMS43NDQsMCwwLDEsMS45ODktLjMzOWw1Ljc2NSwyLjc3MkExLjc0OCwxLjc0OCwwLDAsMSwzMCw2LjZWMjUuNGExLjc0OCwxLjc0OCwwLDAsMS0uOTkxLDEuNTc2WiIgc3R5bGU9ImZpbGw6IzFmOWNmMCIvPjwvc3ZnPg==) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux) &nbsp;
+
+<!--logo find here: https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
+<!--logo base64: https://www.svgviewer.dev/svg-to-data-uri -->
+
+## 🔗  Connect with me
+<p align="left">
+<a href="https://dev.to/mrbaodk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/baodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14980891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://facebook.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://hackerrank.com/baodkism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+[⏩ &nbsp; and many more](https://github.com/mrbaodk?tab=repositories&q=&type=source&language=&sort=stargazers) 
+
 <!--
-**MrBaoDK/MrBaoDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📰  Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt='analytics' src='https://profile-counter.glitch.me/baodk/count.svg' width='0px'>
