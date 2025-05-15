@@ -6,7 +6,7 @@ I am a ✨ _Data Analytics Engineer_ ✨ at VN.
 
 Welcome to my GitHub profile 🤪:
 
-- 🔭 I’m currently working on some freelancer projects @ [LamDataDao](https://github.com/LamDataDao)
+- 🔭 I’m currently working on some freelancer projects @ [LamDataDao](https://github.com/LamDataDao) and fulltime data engineer @ Jabil
 - 🌱 I’m currently learning data engineering, machine learning engineering
 - 👯 I’m looking to collaborate on data/ ML projects
 - 🤔 I’m looking for help with self branding development
@@ -39,7 +39,7 @@ Welcome to my GitHub profile 🤪:
 <a href="https://stackoverflow.com/users/14980891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://facebook.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://hackerrank.com/baodkism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://hackerrank.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 [⏩ &nbsp; and many more](https://github.com/mrbaodk?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
