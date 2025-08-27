@@ -1,51 +1,83 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MrBaoDK&color=blue)
 
-## Hi there 👋
+# 👋 Hey, I’m Bao DK  
 
-I am a ✨ _Data Analytics Engineer_ ✨ at VN.
+💡 **Data Analytics Engineer** | 🚀 Turning **data + code** into automation, insights, and scalable systems.  
+🎯 I focus on **data engineering, ML workflows, and full-stack solutions** that make life easier (and faster) for teams.  
 
-Welcome to my GitHub profile 🤪:
+---
 
-- 🔭 I’m currently working on some freelancer projects @ [LamDataDao](https://github.com/LamDataDao) and fulltime data engineer @ Jabil
-- 🌱 I’m currently learning data engineering, machine learning engineering
-- 👯 I’m looking to collaborate on data/ ML projects
-- 🤔 I’m looking for help with self branding development
-- 💬 Ask me about data analytics engineering, power BI, excel, SQL, power query, batch/stream data processing
-- 📫 How to reach me: MrBaoDK@hotmail.com, [bio](https://bit.ly/m/baodk)
-- 😄 Pronouns: he/him
+## 🚀 Featured Projects  
 
-  
-## 🛠  Languages & Tools
+- 📄 **CDGA – Document Gap Analysis**  
+  ⚡ Full-stack (FastAPI + React + OCR-AI + CI/CD) → cut manual doc handling by **60%**.  
 
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRTZBRDEwIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8dGl0bGU+cG93ZXJiaTwvdGl0bGU+CjxwYXRoIGQ9Ik0xMy41MDEgMTZoLTcuNDk4YzAgMC0wIDAtMCAwLTAuNjkgMC0xLjI1IDAuNTU5LTEuMjUgMS4yNSAwIDAgMCAwIDAgMHYwIDEyLjQ5NmMwIDAgMCAwIDAgMCAwIDAuNjkgMC41NTkgMS4yNSAxLjI1IDEuMjUgMCAwIDAgMCAwIDBoOC43NDd2LTEzLjc0NmMwLTAuNjktMC41NTktMS4yNS0xLjI1LTEuMjV2MHpNMTkuNzQ5IDguNTAyaC03LjQ5OGMwIDAtMCAwLTAgMC0wLjY5IDAtMS4yNSAwLjU1OS0xLjI1IDEuMjUgMCAwIDAgMCAwIDB2MCA1LjYyM2gyLjQ5OWMxLjAzNSAwLjAwMSAxLjg3MyAwLjg0IDEuODc0IDEuODc0djEzLjc0Nmg1LjYyM3YtMjEuMjQ0YzAtMC42OS0wLjU1OS0xLjI1LTEuMjUtMS4yNXYwek0yNy4yNDcgMi4yNTR2MjcuNDkyYzAgMCAwIDAgMCAwIDAgMC42OS0wLjU1OSAxLjI1LTEuMjUgMS4yNSAwIDAtMCAwLTAgMGgtNC4zNzR2LTIxLjI0NGMtMC4wMDEtMS4wMzUtMC44NC0xLjg3My0xLjg3NC0xLjg3NGgtMi40OTl2LTUuNjIzYzAtMCAwLTAgMC0wIDAtMC42OSAwLjU1OS0xLjI1IDEuMjUtMS4yNWg3LjQ5OGMwLjY5IDAgMS4yNSAwLjU1OSAxLjI1IDEuMjUgMCAwIDAgMCAwIDB2MHoiPjwvcGF0aD4KPC9zdmc+) ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka) ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark) &nbsp; 
+- ✅ **NCM Helper**  
+  🤖 Automated workflows + escalation flows → improved traceability & reduced errors by **50%**.  
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap) 
- &nbsp; 
+- 🔍 **FAIR Reaction**  
+  🔗 Integrated MES triggers + dashboards → reduced inspection delays & boosted coverage by **50%**.  
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)  ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjRkZGRkZGIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIuNSAxLjAwN2wxMi45OTkuMTcuNDMuNTAxLTEuODIgMTIuODcyLS41Ny40ODktMTMtLjE3LS40My0uNTAyTDEuOTMgMS40OTVsLjU3LS40ODh6TTEuMTggMTMuODg1bDExLjk5OC4xNTcgMS42OC0xMS44ODJMMi44NiAyLjAwMyAxLjE4IDEzLjg4NXptNS43OTEtMy40OWwtLjE0Ljk5MSA1IC4wNjYuMTQtLjk5LTUtLjA2NnptMS43MS0yLjQ1N2wtMy42NjMtMi45My0uNjkyLjc5NiAyLjYzNiAyLjExMkwzLjczOSA5Ljk1bC40NjUuODEyTDguNjggNy45Mzh6Ii8+PC9zdmc+) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) &nbsp;
+- 🎯 **Quality DL Evaluation**  
+  📝 Evaluation platform with visual quizzes → boosted engagement & efficiency by **40%**.  
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![Azure](https://img.shields.io/badge/-Azure-05122A.svg?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgTWljcm9zb2Z0OiBodHRwczovL2dpdGh1Yi5jb20vbWljcm9zb2Z0L3ZzY29kZS1jb2RpY29ucyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMDA3OGQ0Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE1LjM3MDIgMTMuNjc5OUwxMS4zNzAyIDEuNjc5ODlDMTEuMzAwNiAxLjQ3MjkxIDExLjE2NTIgMS4yOTQzOCAxMC45ODQ2IDEuMTcxNTlDMTAuODA0IDEuMDQ4OCAxMC41ODgyIDAuOTg4NTEzIDEwLjM3MDIgMC45OTk4OTZINS42MzAxN0M1LjQyMDUyIDAuOTk5MzU0IDUuMjE1OTggMS4wNjQ3IDUuMDQ1NTEgMS4xODY3MkM0Ljg3NTA0IDEuMzA4NzUgNC43NDcyNCAxLjQ4MTI3IDQuNjgwMTUgMS42Nzk4OUwwLjYzMDE2NSAxMy42Nzk5QzAuNTc3NjQ2IDEzLjgzNDYgMC41NjM4MiAxMy45OTk4IDAuNTg5OTQzIDE0LjE2MTFDMC42MTYwNjYgMTQuMzIyNSAwLjY4MTMzNSAxNC40NzQ5IDAuNzgwMDA3IDE0LjYwNTJDMC44Nzg2NzggMTQuNzM1NCAxLjAwNzc4IDE0LjgzOTUgMS4xNTU5OCAxNC45MDgzQzEuMzA0MTkgMTQuOTc3MSAxLjQ2Njk5IDE1LjAwODYgMS42MzAxNyAxNC45OTk5SDQuNTYwMTZDNC43NjgwOSAxNC45OTg0IDQuOTcwMzUgMTQuOTMyIDUuMTM4ODMgMTQuODEwMUM1LjMwNzMxIDE0LjY4ODMgNS40MzM2MyAxNC41MTY5IDUuNTAwMTYgMTQuMzE5OUw2LjExMDE1IDEyLjUzOTlMOS4xMTAxNSAxNC44MDk5QzkuMjg0NDggMTQuOTM2MiA5LjQ5NDk1IDE1LjAwMjggOS43MTAxOCAxNC45OTk5SDE0LjM5MDJDMTQuNTUxNyAxNS4wMDUyIDE0LjcxMjEgMTQuOTcxMiAxNC44NTc2IDE0LjkwMUMxNS4wMDMyIDE0LjgzMDcgMTUuMTI5NSAxNC43MjYzIDE1LjIyNTkgMTQuNTk2NUMxNS4zMjIyIDE0LjQ2NjggMTUuMzg1NiAxNC4zMTU2IDE1LjQxMDcgMTQuMTU2QzE1LjQzNTkgMTMuOTk2MyAxNS40MjIgMTMuODMzIDE1LjM3MDIgMTMuNjc5OVpNOS43NTAxNiAxNC4zMzk5QzkuNjc3NDggMTQuMzM5OSA5LjYwNjkzIDE0LjMxNTMgOS41NTAxNSAxNC4yNjk5TDMuOTAwMTggMTAuMDc5OUwzLjgxMDE2IDEwLjAwOTlINi44MTAxNkw2Ljg5MDE3IDkuNzk5ODhMNy44OTAxNyA3LjI2OTg4TDEwLjEzMDIgMTMuODk5OUMxMC4xNDgyIDEzLjk1NTUgMTAuMTUxNSAxNC4wMTQ4IDEwLjEzOTkgMTQuMDcyQzEwLjEyODMgMTQuMTI5MyAxMC4xMDIyIDE0LjE4MjYgMTAuMDY0IDE0LjIyNjlDMTAuMDI1OCAxNC4yNzExIDkuOTc2ODkgMTQuMzA0NyA5LjkyMTkxIDE0LjMyNDVDOS44NjY5NCAxNC4zNDQzIDkuODA3NzggMTQuMzQ5NiA5Ljc1MDE2IDE0LjMzOTlWMTQuMzM5OVpNMTQuNDIwMSAxNC4zMzk5SDEwLjcwMDJDMTAuNzc0OSAxNC4xMjYyIDEwLjc3NDkgMTMuODkzNSAxMC43MDAyIDEzLjY3OTlMNi42NTAxOCAxLjY3OTg5SDEwLjM3MDJDMTAuNDQwOCAxLjY4MDI0IDEwLjUwOTUgMS43MDI1OCAxMC41NjY5IDEuNzQzNzlDMTAuNjI0MiAxLjc4NTAxIDEwLjY2NzMgMS44NDMwOCAxMC42OTAyIDEuOTA5OUwxNC43NDAyIDEzLjkwOTlDMTQuNzUzOCAxMy45NTk3IDE0Ljc1NiAxNC4wMTIgMTQuNzQ2NCAxNC4wNjI4QzE0LjczNjkgMTQuMTEzNiAxNC43MTU5IDE0LjE2MTUgMTQuNjg1MSAxNC4yMDNDMTQuNjU0MiAxNC4yNDQ0IDE0LjYxNDQgMTQuMjc4MyAxNC41Njg1IDE0LjMwMkMxNC41MjI2IDE0LjMyNTcgMTQuNDcxOCAxNC4zMzg3IDE0LjQyMDEgMTQuMzM5OVYxNC4zMzk5WiIvPjwvc3ZnPg==) ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices) &nbsp;
+- 📊 **Common Data Crawler**  
+  🕸️ Crawler for non-PII employee data → reduced prep time by **50%**, improved clarity.  
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+ZmlsZV90eXBlX3ZzY29kZTwvdGl0bGU+PHBhdGggZD0iTTI5LjAxLDUuMDMsMjMuMjQ0LDIuMjU0YTEuNzQyLDEuNzQyLDAsMCwwLTEuOTg5LjMzOEwyLjM4LDE5LjhBMS4xNjYsMS4xNjYsMCwwLDAsMi4zLDIxLjQ0N2MuMDI1LjAyNy4wNS4wNTMuMDc3LjA3N2wxLjU0MSwxLjRhMS4xNjUsMS4xNjUsMCwwLDAsMS40ODkuMDY2TDI4LjE0Miw1Ljc1QTEuMTU4LDEuMTU4LDAsMCwxLDMwLDYuNjcyVjYuNjA1QTEuNzQ4LDEuNzQ4LDAsMCwwLDI5LjAxLDUuMDNaIiBzdHlsZT0iZmlsbDojMDA2NWE5Ii8+PHBhdGggZD0iTTI5LjAxLDI2Ljk3bC01Ljc2NiwyLjc3N2ExLjc0NSwxLjc0NSwwLDAsMS0xLjk4OS0uMzM4TDIuMzgsMTIuMkExLjE2NiwxLjE2NiwwLDAsMSwyLjMsMTAuNTUzYy4wMjUtLjAyNy4wNS0uMDUzLjA3Ny0uMDc3bDEuNTQxLTEuNEExLjE2NSwxLjE2NSwwLDAsMSw1LjQxLDkuMDFMMjguMTQyLDI2LjI1QTEuMTU4LDEuMTU4LDAsMCwwLDMwLDI1LjMyOFYyNS40QTEuNzQ5LDEuNzQ5LDAsMCwxLDI5LjAxLDI2Ljk3WiIgc3R5bGU9ImZpbGw6IzAwN2FjYyIvPjxwYXRoIGQ9Ik0yMy4yNDQsMjkuNzQ3YTEuNzQ1LDEuNzQ1LDAsMCwxLTEuOTg5LS4zMzhBMS4wMjUsMS4wMjUsMCwwLDAsMjMsMjguNjg0VjMuMzE2YTEuMDI0LDEuMDI0LDAsMCwwLTEuNzQ5LS43MjQsMS43NDQsMS43NDQsMCwwLDEsMS45ODktLjMzOWw1Ljc2NSwyLjc3MkExLjc0OCwxLjc0OCwwLDAsMSwzMCw2LjZWMjUuNGExLjc0OCwxLjc0OCwwLDAsMS0uOTkxLDEuNTc2WiIgc3R5bGU9ImZpbGw6IzFmOWNmMCIvPjwvc3ZnPg==) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux) &nbsp;
+---
 
-<!--logo find here: https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
-<!--logo base64: https://www.svgviewer.dev/svg-to-data-uri -->
+## 🛠️ Tech Arsenal  
 
-## 🔗  Connect with me
+**🚀 Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-D9281A?style=flat&logo=redis&logoColor=white)  
+
+**💻 Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+
+**📊 Data/ML:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)  
+
+**⚙️ DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+**📈 Tools:** ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+
+---
+
+## 🌱 Currently  
+
+- 🔭 Freelancing @ [LamDataDao](https://github.com/LamDataDao) + full-time Data Engineer @ **Jabil**  
+- 📚 Learning **advanced Data Engineering + ML Engineering**  
+- 👯 Open to **collaborate on Data/ML projects**  
+- 🤔 Exploring better **personal branding & developer storytelling**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBaoDK&show_icons=true&theme=tokyonight" alt="BaoDK GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaoDK&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MrBaoDK&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBaoDK&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🔗 Let’s Connect  
+<!--logo find here: https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> <!--logo base64: https://www.svgviewer.dev/svg-to-data-uri -->
 <p align="left">
-<a href="https://dev.to/mrbaodk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/baodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14980891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://facebook.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://hackerrank.com/mrbaodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://baodk.zone.id"><img src="https://img.shields.io/badge/Personal%20Site-EF7B3C?style=flat&logo=react&logoColor=EF7B3C&color=1C1F3F"/></a>
+<a href="https://linkedin.com/in/baodk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/mrbaodk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/14980891"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://hackerrank.com/mrbaodk"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+<a href="https://dev.to/mrbaodk"><img src="https://img.shields.io/badge/Dev.to-000?style=flat&logo=devdotto&logoColor=white"/></a>
+<a href="https://zalo.me/0898678905"><img src="https://img.shields.io/badge/Zalo-FFF?style=flat&logo=zalo&logoColor=FFF&color=3C9ACB"/></a>
+</p>
 
-[⏩ &nbsp; and many more](https://github.com/mrbaodk?tab=repositories&q=&type=source&language=&sort=stargazers) 
+---
 
-<!--
-## 📰  Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<img alt='analytics' src='https://profile-counter.glitch.me/baodk/count.svg' width='0px'>
+🔥 _“Code is cheaper than manual work — automate everything.”_
