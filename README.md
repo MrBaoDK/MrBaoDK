@@ -72,22 +72,6 @@
 
 ---
 
-## 🎓 Education & Certifications
-
-### Education
--   **B.A. in Business Administration** | Hanoi Open University (2025)
--   **Specialization in Data Engineering** | FUNiX (FPT) (2024)
-
-### Certifications
--   Microsoft Fabric Data Engineer (Microsoft, 2025)
--   Microsoft Fabric Data Analytics Engineer (Microsoft, 2024)
--   IBM Data Engineering Specialization (SITC, 2024)
--   AWS Academy Cloud Foundations (Coursera, 2024)
--   Meta Database Engineer Specialization (Coursera, 2024)
--   Advanced MySQL for Data Analysis (Alex Analyst, 2024)
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
